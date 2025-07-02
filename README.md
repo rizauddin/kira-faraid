@@ -56,6 +56,21 @@ If you want to edit the code and automatically reload your browser when files ch
 
 ---
 
+## 🤝 Contributing
+
+Contributions are welcome!  
+
+If you want to improve the UI, fix calculation bugs, or add more Faraid scenarios, feel free to fork the repo and submit a pull request.
+
+Before submitting:
+- Test your changes in different cases.
+- Follow the existing code style (simple HTML, CSS, JS).
+- Make sure the app still works offline without server dependencies.
+
+If unsure, open an issue first and we can discuss.
+
+---
+
 ## 📥 Example Use Case
 
 If a person passes away leaving a wife and two sons, this app will calculate the rightful inheritance portion for each heir based on the Islamic law of Faraid.
